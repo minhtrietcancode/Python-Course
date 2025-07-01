@@ -10,6 +10,7 @@ Welcome! This repository contains a structured, beginner-friendly introduction t
 - **Week 5:** Functions (basics and advanced usage)
 - **Week 6:** Review and practice
 - **Week 7:** Iteration (loops)
+- **Week 8:** Advanced topics / Final project / Capstone (see week 8 materials for details)
 
 Each week includes:
 - **Theory Notebooks:** Explanations and examples
