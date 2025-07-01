@@ -11,6 +11,7 @@ Welcome! This repository contains a structured, beginner-friendly introduction t
 - **Week 6:** Review and practice
 - **Week 7:** Iteration (loops)
 - **Week 8:** Advanced topics / Final project / Capstone (see week 8 materials for details)
+- **Week 9:** Dictionaries and Sets (introduction, usage, and practice)
 
 Each week includes:
 - **Theory Notebooks:** Explanations and examples
